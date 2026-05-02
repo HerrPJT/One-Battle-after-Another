@@ -46,5 +46,5 @@ Three models were implemented and evaluated:
 
 ---
 
-**Authors:** Pedro Tomás & Samuel Figueira 
-**Department:** Electrical and Computer Engineering (DEEC) 
+* **Authors:** Pedro Tomás & Samuel Figueira 
+* **Department:** Electrical and Computer Engineering (DEEC) 
